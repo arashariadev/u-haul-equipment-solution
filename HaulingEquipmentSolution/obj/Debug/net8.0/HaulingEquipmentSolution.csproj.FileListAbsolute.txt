@@ -1,0 +1,14 @@
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\bin\Debug\net8.0\HaulingEquipmentSolution.exe
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\bin\Debug\net8.0\HaulingEquipmentSolution.deps.json
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\bin\Debug\net8.0\HaulingEquipmentSolution.runtimeconfig.json
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\bin\Debug\net8.0\HaulingEquipmentSolution.dll
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\bin\Debug\net8.0\HaulingEquipmentSolution.pdb
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\obj\Debug\net8.0\HaulingEquipmentSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\obj\Debug\net8.0\HaulingEquipmentSolution.AssemblyInfoInputs.cache
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\obj\Debug\net8.0\HaulingEquipmentSolution.AssemblyInfo.cs
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\obj\Debug\net8.0\HaulingEquipmentSolution.csproj.CoreCompileInputs.cache
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\obj\Debug\net8.0\HaulingEquipmentSolution.dll
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\obj\Debug\net8.0\refint\HaulingEquipmentSolution.dll
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\obj\Debug\net8.0\HaulingEquipmentSolution.pdb
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\obj\Debug\net8.0\HaulingEquipmentSolution.genruntimeconfig.cache
+C:\Project\HaulingEquipmentSolution\HaulingEquipmentSolution\obj\Debug\net8.0\ref\HaulingEquipmentSolution.dll

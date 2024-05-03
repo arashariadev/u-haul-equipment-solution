@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HaulingEquipmentSolution/1.0.0": {
+        "runtime": {
+          "HaulingEquipmentSolution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HaulingEquipmentSolution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
